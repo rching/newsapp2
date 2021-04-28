@@ -22,3 +22,4 @@ News Website with React, Material-UI, NewsApi. Using functional component with h
 - After you have installed npm package, open up terminal and type.
 
         npm run start
+   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
